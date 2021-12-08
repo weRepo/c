@@ -6,7 +6,7 @@ from pyrogram import Client
 API_ID = int(os.environ.get("API_ID", "2922880"))
 API_HASH = os.environ.get("API_HASH", "96cd1c4c84c78afb25e4cbe59bb9ec6b")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
-ARQ_API_KEY = "EHQYAA-LXTLND-IEJGIB-JMDPXH-ARQ" 
+ARQ_API_KEY = "FNYCWC-AUFXOS-EJFYQA-NFWRLE-ARQ" 
 LANGUAGE = "hi"
 ARQ_API_BASE_URL = "https://thearq.tech"
 
