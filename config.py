@@ -4,7 +4,7 @@ from heroku3 import from_key
 from pyrogram import Client
 
 API_ID = int(os.environ.get("API_ID", "6"))
-API_HASH = os.environ.get("API_HASH", "eb06d4abfb49dc3eeb1aeb98ae0f581e")
+API_HASH = os.environ.get("API_HASH", "96cd1c4c84c78afb25e4cbe59bb9ec6b")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
 ARQ_API_KEY = "EHQYAA-LXTLND-IEJGIB-JMDPXH-ARQ" 
 LANGUAGE = "hi"
